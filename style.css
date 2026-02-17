@@ -10,3 +10,7 @@ h1 {
     border: 2em;
     padding: 100px;
 }
+
+li {
+    display: inline-block;
+}
